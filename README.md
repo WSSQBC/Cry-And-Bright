@@ -1,4 +1,4 @@
-##Cry & Bright
+## Cry & Bright
 
 **Listen to the shape of the universe.**
 
@@ -12,7 +12,7 @@ Cry & Bright is a bilingual incremental game about sound, resonance, echoes, and
 - Unlock automated sound sources, soundscapes, permanent upgrades, relics, achievements, and expedition tiers.
 - Follow milestone-based story chapters and uncover persistent deep-space discoveries.
 
-##鸣与明
+## 鸣与明
 
 **聆听宇宙的形状。**
 
